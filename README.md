@@ -1,8 +1,8 @@
 # MY README :
 <a href="https://discord.gg/8kecDPvAAx"><img src="https://discordapp.com/api/guilds/848236715961352242/widget.png" /></a></br>
 esx_society compatible with es_extended (V1 Final) and double job ! </br>
-DEPENDENCIES : https://github.com/Jujugin/es_extended-v1-double-job/edit/master/README.md
-just put the sql on your database and start it !
+DEPENDENCIES : https://github.com/Jujugin/es_extended-v1-double-job /br>
+just put the sql on your database and start it ! </br>
 enjoy !
 
 
