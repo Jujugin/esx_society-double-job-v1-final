@@ -1,3 +1,11 @@
+# MY README :
+<a href="https://discord.gg/8kecDPvAAx"><img src="https://discordapp.com/api/guilds/848236715961352242/widget.png" /></a>
+esx_society compatible with es_extended (V1 Final) and double job ! 
+DEPENDENCIES : https://github.com/Jujugin/es_extended-v1-double-job/edit/master/README.md
+just put the sql on your database and start it !
+enjoy !
+
+
 # esx_society
 
 Society management for ESX. Adds employee management (hire, fire, promote / demote, change salary), society bank accounts and money washing. It's crucial that this script gets started before all resources that utilize societies do, or else many things will go wrong.
